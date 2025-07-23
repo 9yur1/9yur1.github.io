@@ -40,7 +40,7 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, Jung Uk Kim  
 
 ## International Conferences
-- *[Robust Change Captioning](tbc)* (**AAAI, 2025 **, under review)
+- *[Robust Change Captioning](tbc)* (**AAAI, 2025**, Under review)
   
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
   
