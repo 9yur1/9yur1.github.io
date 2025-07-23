@@ -54,9 +54,9 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
   **Kyu Ri Park**\*, Youngmin Oh\*, and Jung Uk Kim  (\*equal contribution)
 
 # 🚩 Patents
-- *2024* 시청각 질의 응답 장치 및 방법 (10-2818651) (Korea)
-- *2025* 구성적 관계가 표현된 텍스트를 이용한 이미지 캡셔닝 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2025-0039857) (Korea)
-- *2023* 딥러닝 기반의 오디오 비주얼 질문 응답의 학습 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2023-0157475) (Korea)
+- *2025* 시청각 질의 응답 장치 및 방법 (10-2818651, 등) (Korea, **Granted**)
+- *2025* 구성적 관계가 표현된 텍스트를 이용한 이미지 캡셔닝 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2025-0039857) (Korea, Pending)
+- *2023* 딥러닝 기반의 오디오 비주얼 질문 응답의 학습 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2023-0157475) (Korea, Pending)
 
 # 🎖 Honors and Awards
 - *2023.06* Best Paper Award, The Korean Institute of Broadcast and Media Engineering. 
@@ -85,7 +85,9 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
 # 🧑‍🏫 Teaching
 - *2023.03 - 2024.12*, Teaching Assistant, Kyung Hee University
   
-  Courses: Software Engineering, Computer Architecture
+  Courses: Software Engineering
+
+  Computer Architecture
 
 <span class='anchor' id='peer-review-experience'></span>
 # 🔎 Peer Reviewer Experiences
