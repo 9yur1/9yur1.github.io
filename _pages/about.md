@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, Jung Uk Kim  
 
 ## International Conferences
-- *[Robust Change Captioning](tbc)* (**AAAI (under review), 2025 **)
+- *[Robust Change Captioning](tbc)* (**AAAI, 2025 **, under review)
   
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
   
@@ -58,12 +58,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2023.03 - 2025.02*, M.S in Artificial Intelligence, Kyung Hee University.
 - *2021.03 - 2023.02*, B.S in Computer Engineering, Kyung Hee University.
-  
-# 🧑‍🏫 Teaching
-- *2023.03 - 2024.12*, Teaching Assistant, Kyung Hee University
-  
-  Courses: Software Engineering, Computer Architecture
-
 
 # 💬 Invited Talks
 - *2024.12*, Towards Robust Multimodal AI
@@ -78,3 +72,15 @@ My research interest includes neural machine translation and computer vision. I 
   
   Buhung High School
 
+# 🧑‍🏫 Teaching
+- *2023.03 - 2024.12*, Teaching Assistant, Kyung Hee University
+  
+  Courses: Software Engineering, Computer Architecture
+
+  
+# 🔎 Peer Reviewer Experiences
+- CVPR
+- ICCV
+- ECCV
+- AAAI
+- ACM MM
