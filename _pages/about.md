@@ -49,12 +49,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *Leveraging Textual Compositional Reasoning for Robust Change Captioning* (**AAAI (under review)**), 2025  
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
 
-- **ECCV**, 2024  
-  *Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality*  
+-  *Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality* (**ECCV**), 2024
   **Kyu Ri Park**, Hong Joo Lee, Jung Uk Kim
 
-- **ICASSP**, 2024  
-  *Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning*  
+- *Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning*  (**ICASSP**), 2024 
   **Kyu Ri Park**\*, Youngmin Oh\*, Jung Uk Kim  (\*equal contribution)
 
 # 🎖 Honors and Awards
