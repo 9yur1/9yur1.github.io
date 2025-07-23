@@ -41,14 +41,12 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- ### International Journal
-- **IEEE Access**, 2024  
-  *Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment*  
+### International Journal
+- *Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment* (**IEEE Access**), 2024  
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, Jung Uk Kim  
 
 ### International Conferences
-- **AAAI (under review)**, 2025  
-  *Leveraging Textual Compositional Reasoning for Robust Change Captioning*  
+- *Leveraging Textual Compositional Reasoning for Robust Change Captioning* (**AAAI (under review)**), 2025  
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
 
 - **ECCV**, 2024  
