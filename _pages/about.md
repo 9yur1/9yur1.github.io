@@ -64,6 +64,7 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
 
 # 📖 Educations
 - *2023.03 - 2025.02*, M.S in Artificial Intelligence, Kyung Hee University.
+
   *Prof.* Jung Uk Kim, [Visual AI Lab](https://visualai.khu.ac.kr)
 - *2021.03 - 2023.02*, B.S in Computer Engineering, Kyung Hee University.
 
