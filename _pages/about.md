@@ -19,11 +19,11 @@ redirect_from:
 
 I am a research fellow specializing in **Multimodal Learning** and **Generative AI**.  
 My research primarily focuses on **Audio-Visual-Text integration**, **Scene understanding**, and **Image captioning**, with a growing interest in **Vision-Language models (VLMs)** and **Multimodal large language models (MLLMs)**.  
-I am particularly interested in developing practical AI systems that can robustly handle **Incomplete or Missing input data**—a common challenge in **Real-World Environments**.  
-By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to design AI that not only understands complex scenes but also adapts flexibly to **Uncertainty** and **Data limitations**.
+
+I am particularly interested in developing practical AI systems that can robustly handle **Incomplete or Missing input data**—a common challenge in **Real-World Environments**. By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to design AI that not only understands complex scenes but also adapts flexibly to **Uncertainty** and **Data limitations**.
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
