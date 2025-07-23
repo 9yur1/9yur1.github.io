@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👋 About Me
 Hello and Welcome to my page! 🍀
 
 I am a research fellow specializing in **Multimodal Learning** and **Generative AI**.  
