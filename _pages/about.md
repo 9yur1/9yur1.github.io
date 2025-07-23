@@ -28,44 +28,41 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 ### International Journal
-- *Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment* (**IEEE Access**), 2024  
+- *[Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment]([http://github.com](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10605782))* (**IEEE Access, 2024**)  
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, Jung Uk Kim  
 
 ### International Conferences
-- *Leveraging Textual Compositional Reasoning for Robust Change Captioning* (**AAAI (under review)**), 2025  
+- *[Robust Change Captioning](tbc)* (**AAAI (under review), 2025 **) 
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
 
--  *Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality* (**ECCV**), 2024
+-  *[Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02295.pdf)* (**ECCV, 2024**)
   **Kyu Ri Park**, Hong Joo Lee, Jung Uk Kim
 
-- *Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning*  (**ICASSP**), 2024 
+- *[Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning](https://ieeexplore.ieee.org/abstract/document/10446292)*  (**ICASSP, 2024**)
   **Kyu Ri Park**\*, Youngmin Oh\*, Jung Uk Kim  (\*equal contribution)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Best Paper Award, The Korean Institute of Broadcast and Media Engineering. 
+- *2021 - 2023* National Government Fellowship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03 - 2024.12*, Teaching Assistant, Kyung Hee University
+  Courses: Software Engineering, Computer Architecture
+#- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.12*, Towards Robust Multimodal AI
+  Kyung Hee University AI Conference
+  
+- *2024.08*, Learning Trimodal Relation for Audio-Visual QA with Missing Modality
+  Ministry of Science and ICT
+
+- *2023.08*, Deep Learning Introduction and Practice
+  Buhung High School
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
