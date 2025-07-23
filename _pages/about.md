@@ -27,22 +27,22 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
-
-
-#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-### International Journal
-- *[Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment]([http://github.com](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10605782))* (**IEEE Access, 2024**)  
+## International Journal
+- *[Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment]([http://github.com](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10605782))* (**IEEE Access, 2024**)
+  
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, Jung Uk Kim  
 
-### International Conferences
-- *[Robust Change Captioning](tbc)* (**AAAI (under review), 2025 **) 
+## International Conferences
+- *[Robust Change Captioning](tbc)* (**AAAI (under review), 2025 **)
+  
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
 
 -  *[Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02295.pdf)* (**ECCV, 2024**)
+
   **Kyu Ri Park**, Hong Joo Lee, Jung Uk Kim
 
 - *[Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning](https://ieeexplore.ieee.org/abstract/document/10446292)*  (**ICASSP, 2024**)
+  
   **Kyu Ri Park**\*, Youngmin Oh\*, Jung Uk Kim  (\*equal contribution)
 
 # 🎖 Honors and Awards
@@ -50,18 +50,26 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021 - 2023* National Government Fellowship. 
 
 # 📖 Educations
+- *2023.03 - 2025.02*, M.S in Artificial Intelligence, Kyung Hee University.
+- *2021.03 - 2023.02*, B.S in Computer Engineering, Kyung Hee University.
+  
+# 🧑‍🏫 Teaching
 - *2023.03 - 2024.12*, Teaching Assistant, Kyung Hee University
+  
   Courses: Software Engineering, Computer Architecture
-#- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2024.12*, Towards Robust Multimodal AI
+  
   Kyung Hee University AI Conference
   
 - *2024.08*, Learning Trimodal Relation for Audio-Visual QA with Missing Modality
+  
   Ministry of Science and ICT
 
 - *2023.08*, Deep Learning Introduction and Practice
+  
   Buhung High School
 
 # 💻 Internships
