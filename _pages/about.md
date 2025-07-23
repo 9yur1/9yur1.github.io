@@ -79,12 +79,13 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
   
   Buhung High School
 
+<span class='anchor' id='teaching'></span>
 # 🧑‍🏫 Teaching
 - *2023.03 - 2024.12*, Teaching Assistant, Kyung Hee University
   
   Courses: Software Engineering, Computer Architecture
 
-  
+<span class='anchor' id='peer-review-experience'></span>
 # 🔎 Peer Reviewer Experiences
 - CVPR
 - ICCV
