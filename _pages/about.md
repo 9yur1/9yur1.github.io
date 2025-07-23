@@ -30,8 +30,8 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper got accepted to ECCV. 
-- *2024.04*: &nbsp;🎉🎉 One paper got accepted to ICASSP. 
+- *2024.07*: &nbsp;🎉🎉 One paper got accepted to **ECCV**. 
+- *2024.04*: &nbsp;🎉🎉 One paper got accepted to **ICASSP**. 
 
 # 📝 Publications 
 ## International Journal
