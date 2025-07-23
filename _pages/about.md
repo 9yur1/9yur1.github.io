@@ -40,8 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 -  *[Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02295.pdf)* (**ECCV, 2024**)
 
-  **Kyu Ri Park**, Hong Joo Lee, Jung Uk Kim
-
+   **Kyu Ri Park**, Hong Joo Lee, Jung Uk Kim
 
 - *[Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning](https://ieeexplore.ieee.org/abstract/document/10446292)*  (**ICASSP, 2024**)
   
