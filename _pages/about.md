@@ -30,8 +30,9 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper got accepted to **ECCV**. 
-- *2024.04*: &nbsp;🎉🎉 One paper got accepted to **ICASSP**. 
+- *2025.04*: &nbsp;🎉🎉 One patent has been granted in Korea! 
+- *2024.10*: &nbsp;🎉🎉 One paper got accepted to **ECCV**. 
+- *2024.04*: &nbsp;🎉🎉 One paper got accepted to **ICASSP**.
 
 # 📝 Publications 
 ## International Journal
