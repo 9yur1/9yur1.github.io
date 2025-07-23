@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 One paper got accepted to ECCV. 
+- *2024.04*: &nbsp;🎉🎉 One paper got accepted to ICASSP. 
 
 # 📝 Publications 
 ## International Journal
@@ -36,14 +36,21 @@ My research interest includes neural machine translation and computer vision. I 
 - *[Robust Change Captioning](tbc)* (**AAAI (under review), 2025 **)
   
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
+  
 
 -  *[Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02295.pdf)* (**ECCV, 2024**)
 
   **Kyu Ri Park**, Hong Joo Lee, Jung Uk Kim
 
+
 - *[Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning](https://ieeexplore.ieee.org/abstract/document/10446292)*  (**ICASSP, 2024**)
   
   **Kyu Ri Park**\*, Youngmin Oh\*, Jung Uk Kim  (\*equal contribution)
+
+# 🚩 Patents
+- *2024* 시청각 질의 응답 장치 및 방법 (10-2818651) (Korea)
+- *2025* 구성적 관계가 표현된 텍스트를 이용한 이미지 캡셔닝 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2025-0039857) (Korea)
+- *2023* 딥러닝 기반의 오디오 비주얼 질문 응답의 학습 방법 및 이를 수행하기 위한 컴퓨팅 장치 (10-2023-0157475) (Korea)
 
 # 🎖 Honors and Awards
 - *2023.06* Best Paper Award, The Korean Institute of Broadcast and Media Engineering. 
@@ -72,5 +79,3 @@ My research interest includes neural machine translation and computer vision. I 
   
   Buhung High School
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
