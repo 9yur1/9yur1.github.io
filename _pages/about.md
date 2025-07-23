@@ -19,9 +19,8 @@ redirect_from:
 Hello and Welcome to my page! 🍀
 
 I am a research fellow specializing in **Multimodal Learning** and **Generative AI**.  
-My research primarily focuses on **Audio-Visual-Text integration**, **Scene understanding**, and **Image captioning**, 
 
-with a growing interest in **Vision-Language models (VLMs)** and **Multimodal large language models (MLLMs)**.
+My research primarily focuses on **Audio-Visual-Text integration**, **Scene understanding**, and **Image captioning**, with a growing interest in **Vision-Language models (VLMs)** and **Multimodal large language models (MLLMs)**.
 
 I am particularly interested in developing practical AI systems that can robustly handle **Incomplete or Missing input data**—a common challenge in **Real-World Environments**. 
 
@@ -40,7 +39,7 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, Jung Uk Kim  
 
 ## International Conferences
-- *[Robust Change Captioning](tbc)* (**AAAI, 2025**, Under review)
+- *[Leveraging Vision-Language Model for Robust Change Captioning](tbc)* (**AAAI, 2025**, Under review)
   
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
   
@@ -60,7 +59,7 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
 
 # 🎖 Honors and Awards
 - *2023.06* Best Paper Award, The Korean Institute of Broadcast and Media Engineering. 
-- *2021 - 2023* National Government Fellowship. 
+- *2021 - 2022* National Government Fellowship. 
 
 # 📖 Educations
 - *2023.03 - 2025.02*, M.S in Artificial Intelligence, Kyung Hee University.
