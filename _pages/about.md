@@ -36,21 +36,21 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
 ## International Journal
 - *[Robust Airway Generation Labeling with Airway Segmentation for Reliable Airway Assessment]([http://github.com](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10605782))* (**IEEE Access, 2024**)
   
-  Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, Jung Uk Kim  
+  Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, and Jung Uk Kim  
 
 ## International Conferences
 - *[Leveraging Vision-Language Model for Robust Change Captioning](tbc)* (**AAAI, 2025**, Under review)
   
-  **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, Jung Uk Kim
+  **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, and Jung Uk Kim
   
 
 -  *[Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02295.pdf)* (**ECCV, 2024**)
 
-   **Kyu Ri Park**, Hong Joo Lee, Jung Uk Kim
+   **Kyu Ri Park**, Hong Joo Lee, and Jung Uk Kim
 
 - *[Enhancing AVQA with Missing Modality via Trans-Modal Associative Learning](https://ieeexplore.ieee.org/abstract/document/10446292)*  (**ICASSP, 2024**)
   
-  **Kyu Ri Park**\*, Youngmin Oh\*, Jung Uk Kim  (\*equal contribution)
+  **Kyu Ri Park**\*, Youngmin Oh\*, and Jung Uk Kim  (\*equal contribution)
 
 # 🚩 Patents
 - *2024* 시청각 질의 응답 장치 및 방법 (10-2818651) (Korea)
