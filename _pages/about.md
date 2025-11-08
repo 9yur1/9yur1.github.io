@@ -30,6 +30,7 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper got accepted to **AAAI**.
 - *2025.04*: &nbsp;🎉🎉 One patent has been granted in Korea! 
 - *2024.10*: &nbsp;🎉🎉 One paper got accepted to **ECCV**.
 - *2024.07*: &nbsp;🎉🎉 One paper got accepted to **IEEE Access**. 
@@ -42,7 +43,7 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, and Jung Uk Kim  
 
 ## International Conferences
-- *[Leveraging Vision-Language Model for Robust Change Captioning](tbc)* (**AAAI, 2025**, Under review)
+- *[Leveraging Textual Compositional Reasoning for Robust Change Captioning](tbc)* (**AAAI, 2025**)
   
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, and Jung Uk Kim
   
