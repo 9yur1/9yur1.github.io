@@ -43,7 +43,7 @@ By leveraging **Cross-modal reasoning** and **Generative approaches**, I aim to 
   Mincheol Song, Jin An, **Kyu Ri Park**, Jeongmi Lee, Jinkyeong Park, and Jung Uk Kim  
 
 ## International Conferences
-- *[Leveraging Textual Compositional Reasoning for Robust Change Captioning](tbc)* (**AAAI, 2025**)
+- *[Leveraging Textual Compositional Reasoning for Robust Change Captioning](tbc)* (**AAAI, 2026**)
   
   **Kyu Ri Park**, Jiyoung Park, Seong Tae Kim, Hong Joo Lee, and Jung Uk Kim
   
